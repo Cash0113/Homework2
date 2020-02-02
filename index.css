@@ -1,0 +1,14 @@
+body {
+    background-image: url("repeated-square-dark.png");
+}
+h1 {
+    color: darkred;
+}
+#Head {
+    color: darkred;
+}
+.dog {
+    width: 300px;
+    height: 300px;
+    display: block;
+}
